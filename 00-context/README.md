@@ -93,12 +93,12 @@ revisión y feedback de herramientas y con la simulación.**
 
 |                    Actividades                      |   Tipo   | Semana   | Día/hora |
 |-----------------------------------------------------|----------|----------|----------|
-| Sesión de Q&A sobre el programa.                    |   Fija   |          |          |
-| Sesión de revisión y feedback de CV + LinkedIn.     |   Fija   |          |          |
-| Sesión de seguimiento al feedback.                  | Abierta  |          |          |
-| Enviar formulario evaluación y feedback CV/LinkedIn.| Abierta  |          |          |
-| Simulación de entrevista de recursos humanos.       | Abierta  |          |          |
-| Enviar formulario evaluación y feedback entrevista. | Abierta  |          |          |
+| Sesión de Q&A sobre el programa.                    |   Fija   |   24/04/2023       |          |
+| Sesión de revisión y feedback de CV + LinkedIn.     | Abierta  |   8 al 12 de mayo     |          |
+| Sesión de seguimiento al feedback.                  | Abierta  |   15 al 19 de mayo     |          |
+| Enviar formulario evaluación y feedback CV/LinkedIn.| Abierta  |   22 al 24 de mayo  |          |
+| Simulación de entrevista de recursos humanos.       | Abierta  |   29 de mayo al 06 de junio       |          |
+| Enviar formulario evaluación y feedback entrevista. | Abierta  |   07 al 09 de junio       |          |
 
 ### Objetivos de aprendizaje
 

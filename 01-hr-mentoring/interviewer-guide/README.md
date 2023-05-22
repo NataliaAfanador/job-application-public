@@ -105,7 +105,7 @@ Las preguntas que te compartimos a continuación son **solo un ejemplo** de lo q
 
 Recuerda que al finalizar, la estudiante procurará pedirte feedback, recuerda enfocarlo en comportamientos que puedan ser modificados. Por ejemplo: *“Cuando hablaste de “X” pregunta, te mostraste titubeando, eso me hizo pensar que no tenías una idea tan clara. Te sugiero reflexionar sobre “X” punto, preparar la respuesta de manera más estructurada”.*
 
-**Además enlistamos para ti elementos que te sugerimos tener en cuenta porque se incluirán en este [formulario](https://forms.gle/SEAfMG5zQ5U75puv6) que llenarás después de la simulación.**
+**Además enlistamos para ti elementos que te sugerimos tener en cuenta porque se incluirán en este [formulario](https://forms.gle/6ntWf4tr4pVrmFAR6) que llenarás después de la simulación.**
 
 * **Sobre la entrevista:**
     * Si logra comunicar su perfil como desarrolladora web
